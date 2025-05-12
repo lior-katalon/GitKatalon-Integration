@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC created in new branch in local machine</description>
+   <name>Local TC 3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>784f3b2d-8d9c-4923-a9b0-f8058cc756db</testCaseGuid>
+</TestCaseEntity>
